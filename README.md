@@ -1,3 +1,12 @@
-# Advanced-Time-Series-Analysis-and-Forecasting-of-Financial-Data
-This practical work aims to gain an in-depth understanding of time series modeling through ARIMA and GARCH models.
-Main topics used:
+The goal of this practical work is to analyze and model the time series behavior of Euro/USD and Gold/USD exchange rates using several appropriate time series models like AR, ARMA, ARCH, and
+GARCH models. I evaluate and forecast future observations with confidence intervals and study the heteroscedasticity in financial time series data.
+
+In this project, the main topics I address are:
+- Stationarity & Series differencing
+- ACF & PACF (Autocorrelation and Partial Autocorrelation Functions)
+- Auto Regression (AR) and Moving Average (MA) models
+- ARIMA model
+- Autocorrelation & Ljung-Box test
+- Heteroskedasticity, Engle’s ARCH test, & GARCH model
+- Time series prediction & confidence intervals
+- Scenario Simulation
