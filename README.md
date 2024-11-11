@@ -9,3 +9,7 @@ In this project, the main topics I address are:
 - Heteroskedasticity, Engle’s ARCH test, & GARCH model
 - Time series prediction & confidence intervals
 - Scenario Simulation
+
+Structure:
+Work Assignement: the detailed instructions and requirements for this lab project on decision trees and random forests
+Code.R: The R code I created for my analysis and modeling, along with comments on the results obtained
