@@ -1,4 +1,4 @@
-The goal of this practical work was completed as part of my Time Series course. The goal of the project is to analyze and **model the time series behavior of Euro/USD and Gold/USD exchange rates** using several appropriate time series models like AR, ARMA, ARCH, and GARCH models. I evaluate and forecast future observations with confidence intervals and study the heteroscedasticity in financial time series data.
+This practical work was completed as part of my Time Series course. The goal of the project is to analyze and **model the time series behavior of Euro/USD and Gold/USD exchange rates** using several appropriate time series models like AR, ARMA, ARCH, and GARCH models. I evaluate and forecast future observations with confidence intervals and study the heteroscedasticity in financial time series data.
 
 In this project, the main topics I address are:
 - Stationarity & Series differencing
